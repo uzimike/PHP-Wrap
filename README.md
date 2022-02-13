@@ -1,10 +1,10 @@
 # PHP-Wrap
 
-Pull the repo
+Pull the repo:
 `git pull https://github.com/uzimike/PHP-Wrap`
 
-Install PHPUnit
+Install PHPUnit:
 `composer install`
 
-Test wrap function
+Test wrap function:
 `composer test`
